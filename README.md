@@ -24,6 +24,7 @@ I create and provide tools to iOS developers to improve their productivity. This
 ## Talking with me
 
 - 🐦 My twitter: [@aligatr](https://twitter.com/aligatr)
+- 🐘 My mastodon: <a rel="me" href="https://ohai.social/@aligator">@aligatr@ohai.social</a>
 - 💬 Pronouns: He/Him
 
 ---
